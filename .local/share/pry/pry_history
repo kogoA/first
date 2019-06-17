@@ -1,0 +1,16 @@
+User.count
+User.new
+User.count
+User.new hayato emai@hayato.com Kogo1983
+User.new name:hayato email:emai@hayato.com password:Kogo1983
+User.new (name:hayat) (email:emai@hayato.co) (password:Kogo1983)
+User.count
+User.create(name: "Hartl" ,email: "mhart@example.com", password:"foobar", password_confirmation: "foobar" )
+User.count
+exit
+User.find(params[:1])
+User.find(params[1])
+User.find(params[0])
+User.find(params[:0])
+User.mode
+User.all
