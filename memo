@@ -1,1 +1,2 @@
 ・user.rbのemail重複チェックをする
+・app/views/users/edit.html.erbをパーシャルにまとめる(10.5〜)

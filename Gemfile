@@ -51,6 +51,9 @@ group :development, :test do
   gem 'webdrivers'
   gem 'pry'
   gem 'pry-rails'
+  gem 'faker',          '1.7.3'
+  gem 'will_paginate',           '3.1.6'
+  gem 'bootstrap-will_paginate', '1.0.0'
 end
 
 group :development do
